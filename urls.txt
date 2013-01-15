@@ -1,0 +1,12 @@
+archives/batteries.2.0beta1+opam.tar.gz 652108d851ffd66b8dd0b4a01c11cdd7 0o644
+archives/mcl.12-068+opam.tar.gz 9c47197f6a0ef43d8d0b072c6391d41b 0o644
+archives/ocaml-gsl.0.6.3+opam.tar.gz 8c9c18a05748750081bf4278dc615619 0o644
+packages/batteries.2.0beta1/descr 11b93cdb488f44e93115ffa142c685b3 0o644
+packages/batteries.2.0beta1/opam 280687fcecc14133a96da31a2c3e69fd 0o644
+packages/batteries.2.0beta1/url eba76ae31e6f34a412c6c7097c58d10d 0o644
+packages/mcl.12-068/descr 36d23b4489b4e95ca52623f188b63646 0o644
+packages/mcl.12-068/opam 44c7996a0f34d9725c094f4075ef6df9 0o644
+packages/mcl.12-068/url ed99ead10d174af5bf0a4c46a770028a 0o644
+packages/ocaml-gsl.0.6.3/descr 0d6ac27651c6d5300350993dfde8dafd 0o644
+packages/ocaml-gsl.0.6.3/opam d3c585e64420a0f6587645eca9408ba6 0o644
+packages/ocaml-gsl.0.6.3/url 94bae3532f95b049681c84e812093a9a 0o644
