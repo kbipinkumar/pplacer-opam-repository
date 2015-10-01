@@ -1,2 +1,2 @@
-archive: "https://bitbucket.org/mmottl/gsl-ocaml/downloads/gsl-ocaml-0.6.3.tar.gz"
-checksum: "9a8d9e6fa897031aef0a35e1cd93b4a6"
+archive: "https://github.com/mmottl/gsl-ocaml/archive/v0.6.3.tar.gz"
+checksum: "a1e26a3c7a51244bebd45d3d0ac2836c"
